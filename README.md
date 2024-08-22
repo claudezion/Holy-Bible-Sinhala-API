@@ -26,7 +26,7 @@ We have improved the API by migrating to FastAPI, which offers better performanc
 
 The updated FastAPI version of the Holy Bible Sinhala API can be found at:
 
-[Holy Bible Sinhala API - FastAPI Version](https://github.com/claudezion/Holy-Bible-Sinhala-API)
+[Holy Bible Sinhala API - FastAPI Version](https://github.com/claudezion/sinhala-holy-bible-api)
 
 ## Installation and Usage (Archived Version)
 
